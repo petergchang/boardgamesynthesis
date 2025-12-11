@@ -10,7 +10,9 @@ dependencies = [
   "ipykernel",
   "pymatgen",
   "rdkit",
-  "wandb"
+  "wandb",
+  "numpy",
+  "scikit-learn"
 ]
 description = "Boardgame Synthesis"
 dynamic = ["version"]
